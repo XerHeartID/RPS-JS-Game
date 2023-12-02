@@ -57,4 +57,4 @@ while(start == true){
 }
 
 // Permainan Berakhir
-let end = alert("Terima Kasih Sudah Berkunjung");
+let end = alert("Terima Kasih Sudah Bermain");
